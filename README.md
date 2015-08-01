@@ -4,6 +4,11 @@ So kannst du Dateien an andere Apps teilen!
 - [Tutorial auf YouTube](www.youtube.com)
 - Projekt für Android Studio
 
+
+Datei auswählen (Grundlage für diese App): 
+- [Tutorial auf YouTube] (https://youtu.be/9x9aslhlrr0)
+- [Code auf GitHub] (https://github.com/derAndroidPro/ChooseImageTutorial)
+
 <b>SCREENSHOTS:</b>
 
 <img src="https://github.com/derAndroidPro/ShareImageTutorial/blob/master/device-2015-08-01-153708.png" height="500px"/>
